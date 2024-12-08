@@ -9,6 +9,7 @@ UART
 
 
 Result:
+```
 UVM_INFO @ 0: reporter [RNTST] Running test test...
 UVM_INFO E:/Xilinx/Vivado/2024.2/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(20867) @ 0: reporter [UVM/COMP/NAMECHECK] This implementation of the component name checks requires DPI to be enabled
 UVM_INFO E:/Xilinx/proj/UART/UART.srcs/sources_1/new/uart_uvm_tb.sv(412) @ 0: uvm_test_top.env.a.d [DRV] System Reset : Start of Simulation
