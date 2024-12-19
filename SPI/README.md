@@ -1,6 +1,7 @@
 SPI UVM
 
-![382EB08D-F0D5-4467-88E0-E565E0DCB862](https://github.com/user-attachments/assets/76cb8924-ce27-40c9-a533-279c40da73a5)
+![382EB08D-F0D5-4467-88E0-E565E0DCB862](https://github.com/user-attachments/assets/ab22c782-977c-4fc3-a2a6-03d6830ea2c5)
+
 
 
 ```
